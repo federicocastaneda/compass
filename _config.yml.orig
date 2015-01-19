@@ -1,6 +1,11 @@
 # general configuration
-url: https://federicocastaneda.github.io/federicocastaneda-info
+<<<<<<< Updated upstream
+url: http://excentris.net
+baseurl: '/compass'
+=======
+url: http://federicocastaneda.info
 baseurl: ''
+>>>>>>> Stashed changes
 
 # compass configuration
 compass:
