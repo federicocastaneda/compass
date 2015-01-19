@@ -1,11 +1,11 @@
 # general configuration
-<<<<<<< Updated upstream
-url: http://excentris.net
-baseurl: '/compass'
+<<<<<<< HEAD
+url: https://federicocastaneda.github.io/federicocastaneda-info
+baseurl: '/federicocastaneda-info'
 =======
-url: http://federicocastaneda.info
+url: https//federicocastaneda.info
 baseurl: ''
->>>>>>> Stashed changes
+>>>>>>> refs/heads/gh-pages
 
 # compass configuration
 compass:
