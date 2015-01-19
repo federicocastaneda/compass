@@ -1,6 +1,6 @@
 # general configuration
-url: http://federicocastaneda.info
-baseurl: ''
+url: https://federicocastaneda.github.io/federicocastaneda-info
+baseurl: /federicocastaneda-info
 
 # compass configuration
 compass:
