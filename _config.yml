@@ -1,6 +1,6 @@
 # general configuration
 url: http//federicocastaneda.info
-baseurl: ''
+#baseurl: ''
 
 # compass configuration
 compass:
